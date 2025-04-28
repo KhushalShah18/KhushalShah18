@@ -21,24 +21,20 @@ I'm a Systems Engineer at Fundserv, Toronto, specializing in cloud infrastructur
 
 ### 🏆 Achievements
 
-- Microsoft Azure: Solutions Architect Expert, Administrator Associate, Virtual Desktop Specialty
-- Awarded HiPo (High Potential Program Employee) recognition for two consecutive years
+- Microsoft Certified in Azure Solutions Architect, Azure Administrator and Virtual Desktop Speciality
 - Recognized on Seneca President's Honour List (4.0 GPA)
-- Implemented FinOps practices resulting in 100k+ CAD operational cost savings
-- Reduced system monitoring costs by optimizing log ingestion (2000 GB monthly reduction)
+- Implemented FinOps practices resulting in operational cost savings
+- Reduced system monitoring costs by optimizing log ingestion
 
-### 📚 Education & Certifications
+### 📚 Education
 
 - Computer Engineering & Technology, Seneca College
-- Microsoft Azure: Multiple Certifications
-- Confluent Cloud Fundamentals
-- New Relic Observability Foundations
 
 ### 🌟 Featured Projects
 
 - **Azure Virtual Desktop Implementation**
   - Engineered multi-session host pools with MSIX App Attach
-  - Achieved 20k+ CAD cost savings through resource optimization
+  - Achieved cost savings through resource optimization
 
 - **Windows Autopilot with Intune**
   - Reduced device imaging time from 2 hours to under 30 minutes
