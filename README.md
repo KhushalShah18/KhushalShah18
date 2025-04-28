@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/shahkhushal">
-    <img src="https://img.shields.io/badge/-Khushal%20Shah-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
