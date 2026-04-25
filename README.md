@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://polite-sand-04e69ea0f.1.azurestaticapps.net/">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=flat&logo=Portfolio&logoColor=white%20alt=%22Portfolio%22"/>
   </a>
 </p>
 
